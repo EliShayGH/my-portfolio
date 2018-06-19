@@ -1,0 +1,131 @@
+body {
+  background: rgba(56,204,152,1);
+background: -moz-linear-gradient(-45deg, rgba(56,204,152,1) 19%, rgba(106,217,179,1) 40%, rgba(181,238,220,1) 72%, rgba(181,238,220,1) 91%);
+background: -webkit-gradient(left top, right bottom, color-stop(19%, rgba(56,204,152,1)), color-stop(40%, rgba(106,217,179,1)), color-stop(72%, rgba(181,238,220,1)), color-stop(91%, rgba(181,238,220,1)));
+background: -webkit-linear-gradient(-45deg, rgba(56,204,152,1) 19%, rgba(106,217,179,1) 40%, rgba(181,238,220,1) 72%, rgba(181,238,220,1) 91%);
+background: -o-linear-gradient(-45deg, rgba(56,204,152,1) 19%, rgba(106,217,179,1) 40%, rgba(181,238,220,1) 72%, rgba(181,238,220,1) 91%);
+background: -ms-linear-gradient(-45deg, rgba(56,204,152,1) 19%, rgba(106,217,179,1) 40%, rgba(181,238,220,1) 72%, rgba(181,238,220,1) 91%);
+background: linear-gradient(135deg, rgba(56,204,152,1) 19%, rgba(106,217,179,1) 40%, rgba(181,238,220,1) 72%, rgba(181,238,220,1) 91%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#38cc98', endColorstr='#b5eedc', GradientType=1 );
+}
+
+.header_profile{
+  display: flex;
+  flex-wrap: wrap;
+  background-color: white;
+}
+
+.container{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.profile_picture {
+  width: 100%;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.profile_picture img {
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+  display: inline;
+  margin: auto;
+  width: 80%;
+
+}
+
+.title {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+}
+
+.title h1 {
+  font-weight: bold;
+  font-family: 'Kalam', cursive;
+  font-size: 2em;
+}
+
+.title h2 {
+  text-transform: capitalize;
+}
+
+.icons {
+  background-color: white;
+  width: 100%;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.icons img {
+  position: relative;
+  overflow: hidden;
+  display: inline;
+  margin: auto;
+  width: 80%;
+}
+
+.description {
+  font-family: 'Kalam', cursive;
+  font-size: 1.2em;
+  text-align: center;
+  width: 100%;
+  border: 2.5px;
+  border-style: ridge;
+  border-color: white;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contacts{
+  margin: auto;
+  text-align: center;
+}
+
+.contacts h3 {
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 1.5em;
+  font-family: 'Kalam', cursive;
+  width: 100%;
+  border: 2.5px;
+  border-style: ridge;
+  border-color: white;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+    width: 33%;
+    float: left;
+}
+
+li a {
+    display: block;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+
+ul img{
+  width: 60%;
+}

@@ -1,0 +1,92 @@
+@media screen and (min-width: 800px) {
+
+  .header_profile {
+    display: flex;
+    flex-wrap: wrap;
+    width: 85%;
+    margin-left: 7.5vw;
+  }
+
+  .profile_picture {
+    width: 50%;
+  }
+
+  .title {
+    width: 50%;
+  }
+
+  .title h1{
+    margin-bottom: inherit;
+    font-size: 6.5vw;
+  }
+
+  .title h2{
+    margin-bottom: inherit;
+    font-size: 3vw;
+  }
+
+  ul img{
+    width: 120px;
+  }
+
+  .description{
+    width: 85%;
+    font-size: 3vw;
+  }
+  .icons {
+    width: 85%;
+  }
+
+  .icons img{
+    width: 50%;
+  }
+  .contacts h3 {
+    font-size: 4vw;
+
+  }
+
+  .contacts{
+    width: 85%;
+  }
+}
+
+
+@media screen and (min-width: 500px)and (max-width: 799px){
+
+  .header_profile {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .profile_picture {
+    width: 50%;
+  }
+
+  .title {
+    width: 50%;
+  }
+
+  .title h1{
+    margin-bottom: inherit;
+    font-size: 8vw;
+  }
+
+  .title h2 {
+    margin-bottom: inherit;
+    font-size: 3vw;
+  }
+
+  .icons img{
+    width: 50%;
+    text-align: center;
+    margin-left: auto;
+  }
+
+  .description {
+    font-size: 3.5vw;
+  }
+
+  .contacts h3 {
+    font-size: 4vw;
+  }
+}
