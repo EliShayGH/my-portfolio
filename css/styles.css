@@ -129,3 +129,28 @@ li a {
 ul img{
   width: 60%;
 }
+
+ .projects {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.project1,
+.project2 {
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.project1 img,
+.project2 img {
+  text-align: center;
+  max-width: calc((100% - 5px));
+}
+
+/* .project2 img {
+  padding-top: 20px;
+} */
