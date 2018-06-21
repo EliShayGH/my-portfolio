@@ -40,6 +40,8 @@
   .icons img{
     width: 50%;
   }
+
+  .projects h3,
   .contacts h3 {
     font-size: 4vw;
 
@@ -48,6 +50,21 @@
   .contacts{
     width: 85%;
   }
+
+  .projects {
+    width: 85%;
+    margin: auto;
+  }
+
+  .project1,
+  .project2 {
+    width: 50%;
+  }
+
+  .project2 img{
+    margin-top: 7px;
+  }
+
 }
 
 
@@ -65,6 +82,10 @@
   .project1,
   .project2 {
     width: 50%;
+  }
+
+  .project2 img{
+    margin-top: 5px;
   }
 
   .title {
@@ -91,6 +112,7 @@
     font-size: 3.5vw;
   }
 
+  .projects h3,
   .contacts h3 {
     font-size: 4vw;
   }
