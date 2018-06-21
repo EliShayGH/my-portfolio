@@ -13,8 +13,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#38cc98', end
   display: flex;
   flex-wrap: wrap;
   background-color: white;
-  border: 2.5px;
   border-style: ridge;
+  margin: auto;
 }
 
 .container{
@@ -123,7 +123,7 @@ ul {
 }
 
 li {
-    width: 33%;
+    width: 25%;
     float: left;
 }
 
@@ -136,7 +136,10 @@ li a {
 
 
 ul img{
-  width: 60%;
+  width: 100%;
+  position: relative;
+  top: 50%;
+  transform: translateY(-10%);
 }
 
  .projects {
@@ -165,11 +168,11 @@ ul img{
   border-style: ridge;
   opacity: 0.8;
   transition: 0.3s;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 .projects img:hover {
     opacity: 1.0;
 }
-/* .project2 img {
-  padding-top: 20px;
-} */

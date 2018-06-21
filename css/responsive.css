@@ -1,10 +1,21 @@
+@media screen and (min-width: 1200px) {
+  body {
+    width: 80%;
+    text-align: center;
+    margin: auto;
+  }
+
+  .header_profile {
+    margin-top: 12px;
+  }
+}
+
 @media screen and (min-width: 800px) {
 
   .header_profile {
     display: flex;
     flex-wrap: wrap;
     width: 85%;
-    margin-left: 7.5vw;
   }
 
   .profile_picture {
@@ -41,6 +52,10 @@
     width: 50%;
   }
 
+  ul img{
+    width: 50%;
+  }
+
   .projects h3,
   .contacts h3 {
     font-size: 4vw;
@@ -59,10 +74,6 @@
   .project1,
   .project2 {
     width: 50%;
-  }
-
-  .project2 img{
-    margin-top: 7px;
   }
 
 }
@@ -84,10 +95,6 @@
     width: 50%;
   }
 
-  .project2 img{
-    margin-top: 5px;
-  }
-
   .title {
     width: 50%;
   }
@@ -106,6 +113,10 @@
     width: 50%;
     text-align: center;
     margin-left: auto;
+  }
+
+  ul img{
+    width: 65%;
   }
 
   .description {
