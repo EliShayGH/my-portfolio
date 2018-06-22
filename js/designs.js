@@ -13,5 +13,3 @@ function hover2(element) {
 function unhover2(element) {
   element.setAttribute('src', 'images/pixel-art-maker.png');
 }
-
-d
