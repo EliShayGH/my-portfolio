@@ -14,6 +14,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#38cc98', end
   flex-wrap: wrap;
   background-color: white;
   border-style: ridge;
+  border-color: white;
   margin: auto;
 }
 
@@ -68,6 +69,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#38cc98', end
   margin-right: auto;
   border: 2.5px;
   border-style: ridge;
+  border-color: white;
 }
 
 .icons img {
