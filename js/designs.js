@@ -13,3 +13,11 @@ function hover2(element) {
 function unhover2(element) {
   element.setAttribute('src', 'images/pixel-art-maker.png');
 }
+
+function hover3(element) {
+  element.setAttribute('src', 'images/memory-game-hover.jpg');
+}
+
+function unhover3(element) {
+  element.setAttribute('src', 'images/memory-game.jpg');
+}
