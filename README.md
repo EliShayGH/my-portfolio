@@ -8,6 +8,7 @@ The page includes the main web projects I've been working on<br/>
 * [Dependencies](#dependencies)
 * [Instructions](#instructions)
 * [Features](#features)
+* [Projects](#projects)
 * [Development process](#development-process)
 * [Contributing](#contributing)
 
