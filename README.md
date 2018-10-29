@@ -1,6 +1,6 @@
 # Eli Shay Portfolio page
 
-In this project I present my [portfolio](https://rawgit.com/EliShayGH/my-portfolio/master/index.html) page<br/>
+In this project I present my [portfolio](https://htmlpreview.github.io/?https://github.com/EliShayGH/my-portfolio/blob/master/index.html) page<br/>
 The page includes the main web projects I've been working on<br/>
 
 ## Table of Contents
@@ -18,14 +18,14 @@ The page includes the main web projects I've been working on<br/>
 * [designs.js](js/designs.js)
 
 ## Instructions
-- [portfolio link](https://rawgit.com/EliShayGH/my-portfolio/master/index.html)
+- [portfolio link](https://htmlpreview.github.io/?https://github.com/EliShayGH/my-portfolio/blob/master/index.html)
 - Scroll down to view Projects
 - Press a project picture to view content
 
 ## Projects
-- [Animal Card](https://rawgit.com/EliShayGH/animal-card/master/card.html)
-- [Pixel Art Maker](https://rawgit.com/EliShayGH/pixel-art-maker/master/index.html)
-- [Memory Game](https://rawgit.com/EliShayGH/memory-game/master/index.html)
+- [Animal Card](https://htmlpreview.github.io/?https://github.com/EliShayGH/animal-card/blob/master/card.html)
+- [Pixel Art Maker](https://htmlpreview.github.io/?https://github.com/EliShayGH/pixel-art-maker/blob/master/index.html)
+- [Memory Game](https://htmlpreview.github.io/?https://github.com/EliShayGH/memory-game/blob/master/index.html)
 
 ## Features
 
