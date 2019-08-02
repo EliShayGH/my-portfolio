@@ -1,4 +1,4 @@
-# Eli Shay Portfolio page
+# Portfolio is down for redesign [Eli Shay Portfolio page]
 
 In this project I present my [portfolio](https://elishaygh.github.io/my-portfolio/) page<br/>
 The page includes the main web projects I've been working on<br/>
